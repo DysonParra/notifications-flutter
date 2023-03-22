@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {GeneratedPluginRegistrant} se encarga de realizar tareas específicas.
+ * @fileoverview    {GeneratedPluginRegistrant}
  *
  * @version         2.0
  *
