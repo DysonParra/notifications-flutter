@@ -27,7 +27,7 @@ import io.flutter.embedding.engine.FlutterEngine;
  * plugins that support the Android platform.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 @Keep
 public final class GeneratedPluginRegistrant {
