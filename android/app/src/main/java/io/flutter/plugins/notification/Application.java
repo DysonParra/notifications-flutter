@@ -22,7 +22,7 @@ import io.flutter.plugins.firebasemessaging.FirebaseMessagingPlugin;
 import io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService;
 
 /**
- * TODO: Definición de {@code Application}.
+ * TODO: Description of {@code Application}.
  *
  * @author Dyson Parra
  * @since 11
@@ -30,7 +30,7 @@ import io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService;
 public class Application extends FlutterApplication implements PluginRegistrantCallback {
 
     /**
-     * TODO: Definición de {@code onCreate}.
+     * TODO: Description of {@code onCreate}.
      *
      */
     @Override
@@ -40,7 +40,7 @@ public class Application extends FlutterApplication implements PluginRegistrantC
     }
 
     /**
-     * TODO: Definición de {@code registerWith}.
+     * TODO: Description of {@code registerWith}.
      *
      */
     @Override
